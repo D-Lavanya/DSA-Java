@@ -5,7 +5,7 @@ public class var_datatypes {
    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-            //question1
+         //question1
         System.out.println("Enter three numbers:");
         int a = sc.nextInt();
         int b = sc.nextInt();
@@ -48,3 +48,4 @@ public class var_datatypes {
         // int sum = $ + _ ; this is error _ cannot be used as identifier
     }
 }
+
